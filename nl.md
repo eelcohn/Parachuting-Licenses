@@ -7,7 +7,15 @@
 | FAI-member   | Yes |
 | 3rd party insurance included with membership? | Yes |
 
-# Static Line license example
+#### Membership card front:
+
+#### Membership card back:
+
+# Static-Line license example
+
+#### Front:
+
+#### Back:
 
 # AFF license example
 
