@@ -11,18 +11,18 @@
 
 #### Membership card back:
 
-# Static-Line license example
+# Static-Line license
 
 #### Front:
 
 #### Back:
 
-# AFF license example
+# AFF license
 
-# A license example
+# A license
 
-# B license example
+# B license
 
-# C license example
+# C license
 
-# D license example
+# D license
